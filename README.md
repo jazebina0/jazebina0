@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I`m+jazebina+👋;Front-end+developer)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m jazebina
 - 👀 I’m interested in minecraft
 - 🌱 I’m currently learning java
